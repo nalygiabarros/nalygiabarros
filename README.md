@@ -27,6 +27,7 @@
    <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" >
    <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
 <!-- Power Bi -->
+   <a href="https://github.com/nalygiabarros/nalygiabarros.github.io" > 
    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" width="40" height="40"/>  
 
 ## Contatos
