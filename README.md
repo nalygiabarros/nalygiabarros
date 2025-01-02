@@ -18,5 +18,5 @@
 </div>
 
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalygiabarros&layout=compact&langs_count=10&theme=radical)
 </div>
