@@ -4,13 +4,14 @@
    <img alt="Nalygia Barros" src="https://readme-typing-svg.herokuapp.com/?lines=Nalygia+Barros;Analista+de+Dados+em+Formação&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
-## Umas coisinhas sobre mim
+<h3> Sobre mim 🔭 : </h3>
 
 - :computer: Estagiária em BI - Aspirante a Analista de Dadps
 - :mortar_board: Gestora da Tecnologia da Informação, pela UniFG
 - :bookmark: Última leitura: Storytelling com Dados (Cole Nussbaumer Knaflic)
 
-## Linguagens e Ferramentas
+<h3> Linguagens e Ferramentas 💬 : </h3>
+<p>
 <!-- Vs Code -->
    <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" >
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
@@ -29,8 +30,9 @@
 <!-- Power Bi -->
    <a href="https://github.com/nalygiabarros/nalygiabarros.github.io" > 
    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" width="40" height="40"/>  
+</p>
 
-## Contatos
+<h3> Contatos ✉️ : </h3>
 
 <div>
 <a href="mailto:contato@nalygiabarros"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
