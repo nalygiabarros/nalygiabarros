@@ -18,5 +18,5 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nalygiabarros=voyager19878"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 </div>
