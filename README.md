@@ -6,7 +6,7 @@
 
 <h3> Sobre mim 🔭 : </h3>
 
-- :computer: Estagiária em BI - Aspirante a Analista de Dadps
+- :computer: Estagiária em BI - Aspirante à Analista de Dados
 - :mortar_board: Gestora da Tecnologia da Informação, pela UniFG
 - :bookmark: Última leitura: Storytelling com Dados (Cole Nussbaumer Knaflic)
 
