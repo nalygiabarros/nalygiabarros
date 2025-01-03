@@ -9,6 +9,7 @@
 - :computer: Estagiária em BI - Aspirante à Analista de Dados
 - :mortar_board: Gestora da Tecnologia da Informação, pela UniFG
 - :bookmark: Última leitura: Storytelling com Dados (Cole Nussbaumer Knaflic)
+- 🎓 Certificação Scrum Foundation Professional Certification - SFPC (Com validade de 3 anos)
 
 <h3> Linguagens e Ferramentas 💬 : </h3>
 <p>
