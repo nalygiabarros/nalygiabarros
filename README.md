@@ -21,15 +21,15 @@
 <!-- CSS -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
+<!-- Power Bi -->
+   <a href="https://github.com/nalygiabarros/nalygiabarros.github.io" > 
+   <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" width="60" height="40"/>  
 <!-- Postgresql -->
    <a href="https://github.com/hud0shnik/golang-to-do" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
-<!-- Visual Studio -->
-   <a href="https://github.com/search?l=C%2B%2B&q=user%3Ahud0shnik&type=Repositories" >
-   <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
-<!-- Power Bi -->
+<!-- SQL -->
    <a href="https://github.com/nalygiabarros/nalygiabarros.github.io" > 
-   <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" width="40" height="40"/>  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70" height="40"/>
 </p>
 
 <h3> Contatos ✉️ : </h3>
